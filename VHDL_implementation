@@ -1,3 +1,5 @@
+-- Language: VHDL
+-- This is a VHDL file.
 library IEEE;
 use IEEE.std_logic_1164.all; 
 library lpm;
